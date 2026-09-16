@@ -29,3 +29,27 @@
 
 ## D-010 — Cross-category brand must be earned
 **Accepted.** Shared architecture does not prove a shared consumer brand.
+
+## D-011 — Serbian open-price regime is a timing/data-access advantage, not a moat
+
+**Status:** Accepted  
+**Date:** 2026-09-16  
+**Reason:** current law/government/open-data evidence supports machine-readable, real-time retail-price publication and automated collection across major chains, but this access is not proprietary.
+
+**Consequence:** differentiation must come from canonical state/history, rule semantics, trust, partner distribution and measurable actions — not from merely ingesting public price files.
+
+## D-012 — Embedded Watch must beat or complement merchant-native CRM/alert tooling
+
+**Status:** Accepted validation guardrail  
+**Date:** 2026-09-16
+
+A partner commitment counts only when the merchant/site has a concrete reason to use NePropusti instead of its existing CRM/ecommerce notification stack and is willing to publish a real test surface.
+
+The B2B2C thesis should be killed/narrowed if 20 strong-fit pitches produce fewer than 2 genuine commitments.
+
+## D-013 — Current competitor counts must be dated/ranged, not treated as timeless constants
+
+**Status:** Accepted evidence rule  
+**Date:** 2026-09-16
+
+Live catalog/store totals on competitor surfaces can differ and change. Store dated snapshots/ranges and focus on product capability/market position rather than false precision.
