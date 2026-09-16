@@ -1,0 +1,11 @@
+criterion,current_score,max_defensible_90d_or_next_stage,evidence_required,experiment,time_to_evidence,risk
+Competition,3.5,4.5,Prove NePropusti is not competing on comparison/price-alert primitives,20 partner interviews explicitly compare native tools/Tprice/Cenoteka,2-4 weeks,Competitors can copy features
+Differentiation,6.5,8.0,≥3 live partner surfaces where portable multi-trigger Watch produces value baseline tools do not,Embedded Watch pilots,4-8 weeks,May remain a plugin-level feature
+Distribution,6.5,8.5,"≥5 partner commitments, ≥3 live surfaces, one channel that repeatedly creates new watchers",NP-VAL-003,4-8 weeks,Founder-led sales may not scale
+Retention,6.5,7.5,Users create/complete multiple watches or adopt second use case without higher mute rate,50-100 user pilot + cross-category later,6-12 weeks,Commerce is episodic
+WTP,6.5,8.5,≥3 paid partners at €99–199/mo or equivalent outcome pricing,Paid pilot after action proof,8-12 weeks,Merchants choose €49 plugin/CRM instead
+Time to revenue,6.0,7.5,First paid pilot inside 90 days,Partner pilot,8-12 weeks,Integration/sales friction
+Data burden,5.0,6.5,Winning trigger relies on merchant webhook/feed rather than broad crawling/entity matching,Restock/size webhook pilot,4-8 weeks,Partners may not expose reliable stock
+Operating burden,5.5,7.0,Pilot support <1-2 hrs/partner/month after onboarding,3 live pilots,6-12 weeks,Wrong alerts create support load
+Moat potential,6.5,8.0,Portable watch identity + partner network + measured action graph creates repeat partner/user value,multi-partner pilot,3-12 months,Data effect may be scale not network effect
+VC potential,6.5,8.0,Regional repeatability and high-ARPA API/white-label evidence,Serbia proof then 2nd market,6-18 months,Country-specific operations

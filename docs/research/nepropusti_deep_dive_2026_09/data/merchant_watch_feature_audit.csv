@@ -1,0 +1,51 @@
+merchant,category,url,public_recon_status,evidence_summary,existing_related_capability,restock_alert,price_condition_alert,notes
+Gigatron,Electronics,https://gigatron.rs,VERIFIED_PARTIAL,App/promotions visible; item-condition alert not verified,mobile app/newsletter,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Public-source reconnaissance only
+Tehnomanija,Electronics,https://www.tehnomanija.rs,VERIFIED_PARTIAL,Wishlist and marketing/discount notification behavior observed,wishlist/marketing,VERIFIED_PARTIAL,VERIFIED_PARTIAL,Existing CRM can approximate item-price messaging
+BC Group,Electronics,https://www.bcgroup-online.com,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Requires manual product-page audit
+Ananas,Marketplace,https://ananas.rs,VERIFIED_PARTIAL,Wishlist and newsletter/promotions visible,wishlist/newsletter,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,No reliable public evidence of target condition alert
+Tehnomedia,Electronics,https://www.tehnomedia.rs,VERIFIED_PARTIAL,Wishlist visible,wishlist,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Manual UX audit still required
+CT Shop,Electronics,https://www.ctshop.rs,UNKNOWN,Search/public text insufficient,,UNKNOWN,UNKNOWN,Manual audit required
+Monitor,Electronics,https://www.monitor.rs,UNKNOWN,Search/public text insufficient,,UNKNOWN,UNKNOWN,Manual audit required
+Shoppster,Marketplace,https://www.shoppster.rs,VERIFIED_PARTIAL,Wishlist plus newsletter/SMS/Viber marketing,wishlist + CRM channels,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Existing channels strong; condition-specific watch unverified
+ePlaneta,Marketplace,https://www.eplaneta.rs,UNKNOWN,Current watch UX not verified,,UNKNOWN,UNKNOWN,Manual audit required
+iStyle,Electronics,https://istyle.rs,UNKNOWN,Current item-watch UX not verified,,UNKNOWN,UNKNOWN,Manual audit required
+Sport Vision,Sports/Fashion,https://www.sportvision.rs,VERIFIED_PARTIAL,Favorites plus generic contact/marketing consent,favorites,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Stock can change; item-specific proactive watch unverified
+Buzz,Sports/Fashion,https://www.buzzsneakers.rs,VERIFIED_PARTIAL,Favorites/Omiljeno visible,favorites,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Size availability is high-fit use case
+Office Shoes,Footwear,https://www.officeshoes.rs,NOT_FOUND_PUBLIC,No watch/favorite feature found in indexed public text,,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Absence not proven; manual UX audit required
+Planeta Sport,Sports/Fashion,https://planetasport.rs,NOT_FOUND_PUBLIC,No watch/favorite feature found in indexed public text,,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Absence not proven
+N Sport,Sports/Fashion,https://www.n-sport.net,VERIFIED_PARTIAL,Favorites visible,favorites,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,High-fit size/restock segment
+Intersport Serbia,Sports/Fashion,https://www.intersport.rs,NOT_FOUND_PUBLIC,No proactive watch feature verified,,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Manual audit required
+Đak Sport,Sports/Fashion,https://www.djaksport.com,NOT_FOUND_PUBLIC,No proactive watch feature verified,,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Manual audit required
+Fashion&Friends,Fashion,https://www.fashionandfriends.com/rs,VERIFIED_PARTIAL,Loyalty tiers include wishlists/personalized news,wishlist + personalization,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Strong CRM/loyalty alternative
+Deichmann Serbia,Footwear,https://www.deichmann.com/RS,VERIFIED_PARTIAL,Store/size availability visible; proactive item watch not verified,availability,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Size availability relevant
+Zara Serbia,Fashion,https://www.zara.com/rs,UNKNOWN,Public indexed evidence insufficient for Serbia-specific alert flow,,UNKNOWN,UNKNOWN,Global brand may already have native/app features
+H&M Serbia,Fashion,https://www2.hm.com/sr_rs,VERIFIED_PARTIAL,Favorites exist on H&M product surfaces; Serbia alert flow not verified,favorites,UNKNOWN,UNKNOWN,Global-native capability risk
+LC Waikiki Serbia,Fashion,https://www.lcwaikiki.rs,UNKNOWN,Current watch UX not verified,,UNKNOWN,UNKNOWN,Manual audit required
+dm Serbia,Beauty/Drugstore,https://www.dm.rs,VERIFIED_PARTIAL,Wishlist and detailed store availability visible,wishlist + store stock,NOT_FOUND_PUBLIC,NOT_FOUND_PUBLIC,Open-price data also available; no need to rebuild catalog
+Lilly Drogerie,Beauty/Drugstore,https://www.lilly.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Manual audit required
+Alexandar Cosmetics,Beauty,https://www.alexandar-cosmetics.com,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Manual audit required
+Jasmin,Beauty,https://www.jasmin.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Manual audit required
+Notino Serbia,Beauty,https://www.notino.rs,UNKNOWN,Global ecommerce stack likely rich; Serbia alert flow not verified,,UNKNOWN,UNKNOWN,Potentially poor initial partner due incumbent tooling
+Aksa,Baby,https://www.aksa.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Baby replenishment/restock can be high intent
+Dexy Co,Toys/Baby,https://www.dexy.co.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Manual audit required
+Enci Menci,Baby,https://www.encimenci.com,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Manual audit required
+Jungle Baby,Baby,https://www.junglebaby.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Manual audit required
+Menda,Baby/Toys,https://www.menda.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Manual audit required
+IKEA Serbia,Home,https://www.ikea.com/rs/sr,UNKNOWN,Global first-party stack; Serbia condition-watch flow not verified,,UNKNOWN,UNKNOWN,Likely poor first partner due strong internal tooling
+JYSK Serbia,Home,https://jysk.rs,UNKNOWN,Current proactive watch flow not verified,,UNKNOWN,UNKNOWN,Manual audit required
+Forma Ideale,Furniture,https://www.formaideale.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Long purchase cycle; less trigger frequency
+Emmezeta Serbia,Home,https://www.emmezeta.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Manual audit required
+Simpo,Furniture,https://simpo.rs,UNKNOWN,Current ecommerce/watch maturity not verified,,UNKNOWN,UNKNOWN,Lower priority trigger segment
+Vitorog,Furniture,,UNKNOWN,Current ecommerce/watch maturity not verified,,UNKNOWN,UNKNOWN,Requires domain/UX confirmation
+Lesnina XXXL Serbia,Home,https://www.xxxlesnina.rs,UNKNOWN,Current proactive watch flow not verified,,UNKNOWN,UNKNOWN,Global/regional internal tooling risk
+Uradi Sam,Home/DIY,https://uradi-sam.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Stock availability could matter
+Delfi,Books,https://www.delfi.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Lower value per trigger
+Vulkan,Books,https://www.vulkani.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Lower value per trigger
+Pet Centar,Pet,https://www.pet-centar.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Recurring purchase but stock trigger value varies
+Pet Republic,Pet,https://petrepublic.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Potential mid-market partner
+Premium Pet,Pet,https://premiumpet.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Potential WooCommerce/custom segment
+BENU,Pharmacy/Health retail,https://benu.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Regulatory/marketing sensitivity; not first segment
+Dr.Max Serbia,Pharmacy/Health retail,https://www.drmax.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Avoid health profiling in initial validation
+GameS,Gaming,https://www.games.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Limited/collector stock can create strong trigger value
+ComputerLand,Electronics/Gaming,https://www.computerland.rs,UNKNOWN,Current watch UX not sufficiently verified,,UNKNOWN,UNKNOWN,Manual audit required
+Ekupi Serbia / equivalent specialist sample,General ecommerce,,UNKNOWN,Reserved as 50th sample slot; no reliable current Serbian domain verified,,UNKNOWN,UNKNOWN,Do not infer feature absence

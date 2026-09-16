@@ -1,0 +1,11 @@
+retailer,source,format,barcode,brand,unit,price,stock,loyalty_price,history,note
+dm drogerie markt,Open Data Portal,CSV,YES schema,YES,YES,YES current price,UNKNOWN,UNKNOWN,UNKNOWN,Real-time; raw row fetch not available in research runtime
+Domaća trgovina,Open Data Portal,CSV,YES schema,YES,YES,YES,UNKNOWN,UNKNOWN,historical/monthly snapshots described,Real-time
+VP Dima,Open Data Portal,CSV,YES schema,YES,YES,YES,UNKNOWN,UNKNOWN,monthly snapshots described,Real-time
+Univerexport,Open Data Portal,CSV,YES schema,YES,YES,YES,UNKNOWN,UNKNOWN,described,Dataset family
+Fortuna Market,Open Data Portal,CSV,YES schema,YES,YES,YES,UNKNOWN,UNKNOWN,described,Dataset family
+Delhaize Serbia,Open Data Portal,CSV,YES schema,YES,YES,YES,UNKNOWN,UNKNOWN,described,Dataset family
+Aman,Open Data Portal,CSV,YES/expected schema,YES/expected,YES/expected,YES,UNKNOWN,UNKNOWN,described,Requires NP-VAL-001 raw audit
+Metro,Open Data Portal,CSV,YES/expected schema,YES/expected,YES/expected,YES,UNKNOWN,UNKNOWN,described,Requires raw audit
+Lidl,Open Data/Open price regime,CSV/official source,UNKNOWN raw sample,UNKNOWN,UNKNOWN,YES expected,UNKNOWN,UNKNOWN,UNKNOWN,Requires exact source audit
+Idea/Roda,Open Data/Open price regime,CSV/official source,UNKNOWN raw sample,UNKNOWN,UNKNOWN,YES expected,UNKNOWN,UNKNOWN,UNKNOWN,Requires exact source audit

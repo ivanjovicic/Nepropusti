@@ -6,11 +6,11 @@
 ## D-002 — Do not build a super-app first
 **Accepted.** MVP gets one primary job and at most one supporting wedge after evidence.
 
-## D-003 — Commerce Watch / Price Truth is the leading first wedge
-**Active hypothesis.** Serbian open-price infrastructure plus clear monetary value make it the strongest current research candidate.
+## D-003 — Commerce Watch / Price Truth was the leading first wedge
+**Superseded on 2026-09-16 by D-014.** Price/open-data remains useful supporting context, but is no longer the first product wedge after the Tprice/merchant-native competitive deep dive.
 
 ## D-004 — Embedded Watch Button is the leading product shape
-**Active hypothesis.** Partner distribution may solve cold-start better than destination-app acquisition.
+**Refined by D-015.** Partner distribution remains the leading route, but initial identity should be merchant-owned/hybrid rather than requiring NePropusti ownership.
 
 ## D-005 — Sport is a retention experiment, not live-score scope
 **Accepted.** Test when + where-to-watch; live scoring stays out.
@@ -19,7 +19,7 @@
 **Accepted.** Build source intelligence, entity/rule/state/trust. Buy/use push/email infrastructure.
 
 ## D-007 — Target-price alone is not differentiation
-**Accepted.** Cenoteka/Idealno and others already offer similar functionality.
+**Accepted.** Cenoteka/Idealno/Tprice and others already cover substantial price-tracking territory.
 
 ## D-008 — Giveaways are initially acquisition/trust, not core monetization
 **Active hypothesis.** Official-source verification makes them interesting, but repeat business is unproven.
@@ -31,25 +31,59 @@
 **Accepted.** Shared architecture does not prove a shared consumer brand.
 
 ## D-011 — Serbian open-price regime is a timing/data-access advantage, not a moat
-
-**Status:** Accepted  
-**Date:** 2026-09-16  
-**Reason:** current law/government/open-data evidence supports machine-readable, real-time retail-price publication and automated collection across major chains, but this access is not proprietary.
-
-**Consequence:** differentiation must come from canonical state/history, rule semantics, trust, partner distribution and measurable actions — not from merely ingesting public price files.
+**Accepted.** Public data is non-proprietary input infrastructure.
 
 ## D-012 — Embedded Watch must beat or complement merchant-native CRM/alert tooling
+**Accepted validation guardrail.** A merchant commitment counts only when there is a concrete reason to use NePropusti instead of existing plugin/CRM and a willingness to publish a real surface.
 
-**Status:** Accepted validation guardrail  
-**Date:** 2026-09-16
+## D-013 — Current competitor counts must be dated/ranged, not timeless constants
+**Accepted evidence rule.** Current surfaces change; preserve dated evidence and avoid false precision.
 
-A partner commitment counts only when the merchant/site has a concrete reason to use NePropusti instead of its existing CRM/ecommerce notification stack and is willing to publish a real test surface.
+## D-014 — Size/variant/restock becomes the leading first validation trigger
+**Status: Accepted validation hypothesis**  
+**Date: 2026-09-16**
 
-The B2B2C thesis should be killed/narrowed if 20 strong-fit pitches produce fewer than 2 genuine commitments.
+The deep dive found that open-price ingestion/history/comparison is already commoditizing rapidly through Tprice and existing comparison products, while merchant-native price/restock plugins are inexpensive.
 
-## D-013 — Current competitor counts must be dated/ranged, not treated as timeless constants
+The first high-information test is therefore:
 
-**Status:** Accepted evidence rule  
-**Date:** 2026-09-16
+`unavailable size/variant -> user creates Watch -> trusted merchant stock transition -> service alert -> attributable return/action`
 
-Live catalog/store totals on competitor surfaces can differ and change. Store dated snapshots/ranges and focus on product capability/market position rather than false precision.
+Reason:
+- clearer state;
+- immediate intent;
+- direct partner ROI;
+- avoids universal cross-store identity for the first pilot.
+
+Restock itself is not the moat.
+
+## D-015 — Merchant-owned relationship first; portable Watch identity must be earned
+**Status: Accepted validation hypothesis**  
+**Date: 2026-09-16**
+
+For initial pilots:
+- merchant owns customer relationship;
+- NePropusti acts as service/processor layer;
+- no mandatory NePropusti account;
+- portable cross-site identity is optional/later.
+
+Reason: reduce activation friction and partner resistance; validate cross-site value before claiming network effects.
+
+## D-016 — First partner ICP is mid-market fashion/footwear ecommerce
+**Status: Accepted validation hypothesis**  
+**Date: 2026-09-16**
+
+Prioritize merchants with size/variant stock churn, enough traffic, reachable owner/ecommerce manager and incomplete item-level alert automation.
+
+Do not start with large enterprises whose CRM/loyalty stacks and procurement burden obscure the basic value test.
+
+## D-017 — Deep-dive investment score is 6.83/10, not proof
+**Status: Decision evidence**  
+**Date: 2026-09-16**
+
+The score fell from the earlier portfolio model because competition, data operations and merchant-native alternatives are stronger than previously modeled.
+
+Score can improve only through real partner/user/payment evidence, not added features.
+
+Canonical evidence:
+`docs/research/nepropusti_deep_dive_2026_09/`

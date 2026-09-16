@@ -1,0 +1,12 @@
+product_shape,score,reason
+Hybrid B2B2C: merchant surface + optional portable Watch identity,8.3,"Best balance of distribution and consumer utility; identity must be hybrid, not automatically owned by NePropusti"
+Merchant-hosted/embedded JS Watch,8.0,Good validation surface; easy to measure return action
+WooCommerce plugin,7.8,Potential high-leverage Serbia distribution given directional WooCommerce dominance; only after hosted pilots
+Hosted Watch link,7.7,Lowest-friction validation; weak moat but ideal before plugin
+Partner API/SDK,7.5,Strong later B2B capability; too much integration work before demand
+White-label partner Watch,7.4,May improve partner acceptance/identity ownership; loses cross-site consumer network
+Telegram bot,6.7,"Cheap delivery/validation, but not merchant distribution moat"
+Mobile share-sheet,6.4,Useful unsupported-site capture; later
+Browser extension,5.8,Generic monitoring competition and support burden
+B2C destination app/site,5.6,Cold-start and incumbent catalog problem
+Native mobile app,4.8,No mobile-specific value proven

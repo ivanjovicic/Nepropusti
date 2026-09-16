@@ -1,0 +1,18 @@
+competitor,category,price_tracking,target_price,restock,price_history,barcode_or_identity,merchant_embedded,feed_or_api,merchant_analytics,where_to_watch,alerts,cross_site_identity,evidence_basis,implication
+Tprice,Price comparison/open-data,YES,PARTIAL,UNKNOWN,YES,YES,NO/UNKNOWN,NO,NO,NO,YES,YES,Open-data portal + Tprice current site,Direct threat to grocery Price Truth/open-data thesis
+Idealno,Price comparison,YES,YES,UNKNOWN,YES,YES,NO/UNKNOWN,NO,NO,NO,YES,PARTIAL,Current public product surfaces,Direct threat to price-history/price-drop user job
+ePonuda,Price comparison / merchant acquisition,YES,PARTIAL,UNKNOWN,YES,PARTIAL,NO/UNKNOWN,YES XML feed,NO,NO,YES,PARTIAL,Partner page,Strong merchant network and CPC model
+Cenoteka,Price comparison,YES,YES,NO/UNKNOWN,PARTIAL,PARTIAL,NO,NO,NO,NO,YES,PARTIAL,FAQ,Direct threat to desired-price/discount threshold
+Keepa,Amazon price tracker,YES,YES,PARTIAL,YES,YES,NO,API,NO,NO,YES,YES,Product docs/public reputation,Global proof that tracking itself is commodity
+Honey,Deals/coupons,YES,YES,NO/UNKNOWN,PARTIAL,YES,NO,NO,NO,NO,YES,PARTIAL,Product surface,Coupon/price-drop adjacency
+WooCommerce Back In Stock,Merchant plugin,NO,NO,YES,NO,NO,YES,Native plugin,YES,NO,YES,YES,WooCommerce Marketplace,$59/year official extension; waitlist + demand insight
+WooCommerce Notify Me Plus,Merchant plugin,NO,YES,YES,NO,NO,YES,Native plugin,YES,NO,YES,YES,WooCommerce Marketplace,Price drop + restock + new arrivals
+WooCommerce Price Drop Notifier,Merchant plugin,NO,YES,NO,NO,NO,YES,Native plugin,YES,NO,YES,YES,WooCommerce Marketplace,Target-price threshold supported
+Omnisend,CRM/marketing automation,NO,PARTIAL,PARTIAL,NO,NO,YES via automation/integration,APIs/integrations,YES,NO,YES,YES,Official pricing/features,Email/SMS/web push/custom events make delivery/workflows commodity
+Shopify alert-app ecosystem,Merchant plugins,NO,YES,YES,NO,NO,YES,Apps/webhooks,YES,NO,YES,YES,Shopify App Store,Hundreds of alert-style apps; strong substitution on Shopify
+Visualping,Generic monitor,PARTIAL,PARTIAL,PARTIAL,NO,NO,NO,NO,NO,NO,YES,YES,Product docs,Fallback competition only
+Distill,Generic monitor,PARTIAL,PARTIAL,PARTIAL,NO,NO,NO,NO,NO,NO,YES,YES,Product docs,Fallback competition only
+LiveSoccerTV,Sports where-to-watch,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,YES,Current schedules,Direct sports adjacency; territory/channel mapping
+MojTV,TV schedule/reminders,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,YES,Current Serbia schedule,Strong Serbia schedule/reminder substitute
+Bandsintown,Events,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,Current product,Artist/event alerts mature
+Songkick,Events,NO,NO,NO,NO,NO,NO,NO,NO,NO,YES,YES,Current product,Artist tracking/reminders mature

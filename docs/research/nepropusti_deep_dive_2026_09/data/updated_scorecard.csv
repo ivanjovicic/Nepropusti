@@ -1,0 +1,25 @@
+criterion,weight,score_0_10,confidence,reason
+Problem severity,6,7.5,MEDIUM,"Repeated checking/stock/size/price intent is real, but willingness to switch/pay remains unproven."
+Problem frequency,5,7.5,MEDIUM,Commerce watches can recur but many complete after purchase; permanent follows differ.
+Market size,6,7.0,MEDIUM,"Serbia ecommerce is growing; NBS reports 5,948 domestic online stores under its methodology."
+Timing,7,8.5,HIGH,"2026 open-price regime creates data access tailwind, but Tprice moved fast."
+Competition,5,3.5,HIGH,Tprice/Idealno/Cenoteka/ePonuda plus native WooCommerce/CRM alerts materially overlap.
+Differentiation,9,6.5,LOW-MEDIUM,Only cross-site portable rules + partner ROI + trusted state remain meaningfully distinct hypotheses.
+Distribution,9,6.5,LOW-MEDIUM,Embedded partner route is plausible but no real integrations yet.
+Retention,7,6.5,LOW,Temporary commerce watches naturally expire; horizontal second-category retention unproven.
+WTP,9,6.5,LOW,Partner value is plausible but no payment evidence.
+Time to revenue,8,6.0,LOW-MEDIUM,Could pilot quickly; 20 pitches/3 live surfaces still required.
+Unit economics,7,7.5,MEDIUM,Software gross margins good if source/support costs remain controlled.
+Gross margin,5,8.0,MEDIUM,Email/web push/hosted rule engine can be inexpensive; human data QA is caveat.
+Data burden,8,5.0,MEDIUM,Identity/variant/stock/loyalty/source conflicts are material ongoing burden.
+Operating burden,8,5.5,MEDIUM,Partner sales/integration/support and alert disputes are significant.
+Technical risk,5,7.0,MEDIUM,Modular monolith/rule engine feasible; data correctness harder than code.
+Legal risk,4,6.5,MEDIUM,"Service alerts manageable, but sponsored/direct marketing and profiling require strict separation/consent."
+Founder fit,10,9.0,HIGH,Strong technical fit and local market access; weaker natural merchant-sales advantage.
+Solo-founder feasibility,9,7.5,MEDIUM,Validation and narrow pilot feasible; scaled partner/data ops likely need help.
+Moat potential,9,6.5,LOW-MEDIUM,Partner network + portable watch identity + action graph could become moat; none proven.
+Regional scalability,7,7.0,MEDIUM,"Concept travels, but sources/legal/merchant acquisition are country-specific."
+Bootstrap,8,7.5,MEDIUM,Can validate cheaply; moderate path to small profitable B2B2C if partner sales work.
+VC potential,4,6.5,LOW-MEDIUM,Requires regional partner network/data effect; Serbia-only is insufficient.
+
+WEIGHTED_TOTAL,155,6.83,,"Analytical score, not probability"

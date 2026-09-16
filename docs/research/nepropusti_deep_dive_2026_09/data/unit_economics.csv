@@ -1,0 +1,10 @@
+model,assumptions,formula,result,classification
+Embedded pilot break-even,Partner pays €99/mo; gross margin on incremental order €20,99/20,~5 incremental gross-profit orders/month,HYPOTHESIS
+Embedded pilot break-even,Partner pays €199/mo; gross margin on incremental order €20,199/20,~10 incremental gross-profit orders/month,HYPOTHESIS
+Outcome pricing,100 useful alert clicks × €0.50,100*0.5,€50/month/partner,HYPOTHESIS
+Outcome pricing,50 recovered orders × €2 qualified conversion fee,50*2,€100/month/partner,HYPOTHESIS
+€1k MRR path,10 partners × €99 + small usage,10*99,€990 MRR,PLAUSIBLE only after pilot proof
+€5k MRR path,34 partners × €149,34*149,"€5,066 MRR",AGGRESSIVE but credible if repeatable sales
+€10k MRR path,50 partners × €199,50*199,"€9,950 MRR",AGGRESSIVE Serbia-only
+€50k MRR path,150 partners × €199 + €20k usage/API/white-label,150*199+20000,"€49,850 MRR",LOW-PROBABILITY without regional/high-ARPA layer
+Consumer premium,"10,000 MAU × 3% × €2.5",10000*0.03*2.5,€750 MRR,Weak as primary monetization

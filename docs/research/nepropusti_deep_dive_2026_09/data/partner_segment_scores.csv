@@ -1,0 +1,11 @@
+segment,score,reason,buyer,roi_metric,recommendation
+Mid-market fashion/footwear ecommerce,8.3,Size/variant stock churn + high purchase intent + fragmented local implementations,Owner/ecommerce manager,restock/size recovered revenue,FIRST ICP
+Baby/toys specialist ecommerce,7.9,Stock-sensitive purchases and moderate urgency,Owner/ecommerce manager,restock conversion,Good pilot segment
+Specialist/gaming/collectibles retail,7.8,Scarcity/new inventory creates urgent action,Owner/ecommerce manager,stock/ticket-like conversion,Good pilot segment
+Pet/specialist recurring retail,7.3,Repeat demand but less scarcity,Owner/ecommerce manager,restock/repeat purchase,Secondary
+Electronics mid-market,7.0,High AOV and price intent but price-comparison incumbents are strong,Ecommerce manager,price/restock return,Avoid price-only pitch
+Ticket seller/organizer,7.5,Very high on-sale urgency but concentrated partner power/API dependency,Commercial/product,ticket conversion,Separate pilot
+Brand/manufacturer,6.8,Demand insight valuable but transaction often elsewhere,Marketing/ecommerce,intent/demand signals,Later
+Sports publisher/club,5.8,Retention value but weak direct payer for where-to-watch,Digital/content lead,engagement,Not first payer
+Broadcaster/streamer,6.1,Could monetize tune-in but rights/data complexity high,Digital/product,tune-in,Later
+General classified site,5.9,Many possible watches but entity/state heterogeneity,Product,return visits,Too broad initially
