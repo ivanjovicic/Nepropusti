@@ -1,0 +1,19 @@
+competitor,job,relationship,strength,implication
+Google Interests/Alerts,Horizontal follow/news,COMPETE,Huge distribution,Not Serbia-specific structured action engine; topic follow limited by surface/geography
+Visualping,Generic webpage change monitoring,COMPETE/COMPLEMENT,"Flexible page monitoring, API, MCP",Unstructured page change vs domain-specific state semantics
+Distill,Generic webpage change monitoring,COMPETE/COMPLEMENT,"2M+ downloads, browser/cloud monitors",URL/DOM monitoring rather than canonical cross-source entity state
+OneSignal,Notification delivery,INFRASTRUCTURE,Push/email/SMS infrastructure,Does not solve source intelligence/entity/rule truth
+Knock,Notification workflow infrastructure,INFRASTRUCTURE,Workflow/preferences/orchestration,Does not solve external state monitoring
+Idealno,Price comparison,COMPETE/PARTNER,1.45M products / 192 stores reported,Already has price-drop notification; strong SEO/catalog moat
+ePonuda,Price comparison / high-intent traffic,COMPETE/PARTNER,"700+ merchants, CPC, 5M+ active offers reported",Strong merchant network and regional presence
+Cenoteka,Price comparison / FMCG+,COMPETE/PARTNER,Target price or discount threshold alerts,Strong direct overlap in commerce alerts
+Honey,Price tracking/browser,COMPETE,Droplist across participating stores,Strong browser UX; limited country/site coverage
+Slickdeals,Deal alerts/community,COMPETE,Keyword/store/category/brand alerts,Community/network advantage absent locally
+SofaScore/Flashscore,Sports scores/follows,COMPETE,Deep live sports habit,Do not challenge on live scores
+LiveSoccerTV/JustWatch Sports,Where-to-watch,COMPETE,Broadcast mapping use case validated,Serbia-specific depth/rights must be audited
+Bandsintown/Songkick,Music/event alerts,COMPETE/PARTNER,Mature event lifecycle alerts,Strong artist graph; local coverage varies
+Tickets.rs/eFinity,Ticketing,PARTNER/COMPETE,Direct local ticket inventory,Can be action destination rather than recreated marketplace
+Uprava za igre na sreću,Giveaway regulator source,DATA SOURCE,Official organizer/date data,Not a consumer discovery/alert product
+AddEvent,Embedded calendar/follow,COMPLEMENT/INFRASTRUCTURE,Embeddable Follow Calendar,Calendar sync is slower than real-time alerting
+Halo Oglasi,Classified saved search,COMPETE,Native saved-search notifications,Shows listings vertical already solved by incumbent
+Google Flights,Travel price watch,COMPETE/IGNORE,Powerful route price tracking,Avoid head-on travel wedge

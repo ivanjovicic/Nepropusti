@@ -1,0 +1,11 @@
+source,vertical,mode,confidence,coverage,strategic_note
+Serbian open-price portal,Commerce,OPEN DATA,High,Real-time retailer CSVs; many fields include barcode/brand/unit/price,Best current Serbian structural data advantage
+Retailer direct feeds,Commerce,PARTNER,High,Potential stock/coupon/online offer data,Needed beyond statutory price scope
+Idealno/ePonuda/Cenoteka,Commerce,PARTNER/LICENSE/DEEPLINK,Medium,Catalog identity and outbound purchase traffic,Prefer complement before recreating catalog
+API-Football,Sports fixtures,LICENSE,High,"$19 Pro / 7,500 req/day published",Football only; broadcast mapping separate
+Sportmonks,Sports fixtures,LICENSE,High,€29/mo starter / 5 leagues published,Football only; multi-sport requires more vendors
+Broadcasters / guides,Broadcast,PARTNER/LICENSE,Unknown,Rights/schedule data,Major blocking unknown
+Tickets.rs/eFinity/organizers,Events/tickets,PARTNER,Medium,Official event/ticket inventory,Prefer partner/deeplink
+Uprava za igre na sreću,Giveaways,OFFICIAL SOURCE,High,Organizer and campaign periods,Can power verified regulatory layer
+Brand official rules,Giveaways,OFFICIAL SOURCE,High,Prize/eligibility/rules,Need extraction + verification
+Generic webpage monitoring,Fallback,PERMITTED CRAWL/USER INITIATED,Low-Medium,Long-tail unsupported sources,Never primary business-critical source
